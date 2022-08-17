@@ -385,6 +385,8 @@ class PlayState extends MusicBeatState
 					curStage = 'schoolEvil';
 				case 'ugh' | 'guns' | 'stress':
 					curStage = 'tank';
+                                case 'loaded' | 'unable' | 'one-shot
+                                        curStage = picod2
 				default:
 					curStage = 'stage';
 			}
