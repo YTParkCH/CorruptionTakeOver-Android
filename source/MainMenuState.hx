@@ -33,7 +33,7 @@ class MainMenuState extends MusicBeatState
 	private var camAchievement:FlxCamera;
 	
 	var optionShit:Array<String> = [
-		'STPRYMODE',
+		'STORYMODE',
 		'FREEPLAY',
 		'CREDITS',
 		'OPTIONS'
